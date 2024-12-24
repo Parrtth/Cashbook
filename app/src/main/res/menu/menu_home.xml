@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/nav_cal"
+        android:icon="@drawable/calendar"
+        android:title="Calendar"/>
+    <item android:id="@+id/nav_pdf"
+        android:icon="@drawable/pdf"
+        android:title="Pdf"/>
+    <item android:id="@+id/nav_chart"
+        android:icon="@drawable/baseline_pie_chart_24"
+        android:title="Summary"/>
+    <item android:id="@+id/nav_follow"
+        android:icon="@drawable/icons8_instagram_32"
+        android:title="Follow Us"/>
+    <item android:id="@+id/nav_logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Logout"/>
+
+</menu>

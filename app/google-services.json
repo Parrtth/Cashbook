@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570417769167",
+    "project_id": "moon-18526",
+    "storage_bucket": "moon-18526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570417769167:android:1bf15168f9e5aa1303a5ba",
+        "android_client_info": {
+          "package_name": "com.example.cashbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8-pWWS2YpAhOJYlfYxm4_EUmSOrvboU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
